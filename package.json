@@ -1,0 +1,22 @@
+{
+  "name": "@ktaggarsi/exercise-publish-package",
+  "version": "1.0.0",
+  "description": "helloworld package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "alert(\"Hello, World!\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktaggarsi/exercise-publish-package.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "ktaggarsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktaggarsi/exercise-publish-package/issues"
+  },
+  "homepage": "https://github.com/ktaggarsi/exercise-publish-package#readme"
+}
