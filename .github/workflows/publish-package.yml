@@ -13,6 +13,7 @@ jobs:
         with:
           node-version: 16
       - run: npm install
+      - run: npm init
       - run: npm ci
       - run: npm test
 
